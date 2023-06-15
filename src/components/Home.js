@@ -1,7 +1,4 @@
 import React, { useEffect, useState } from "react"
-import { NavLink, Link } from "react-router-dom";
-import Summary from "./Summary";
-
 
 const Home = () => {
 
