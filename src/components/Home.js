@@ -33,19 +33,19 @@ const Home = () => {
               </div>
             </div>
             <div className="carousel-item active">
-              <img src="https://source.unsplash.com/random/900x350/?tvshow" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
+              <img src="https://source.unsplash.com/random/900x360/?tvshow" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://source.unsplash.com/random/900x350/?show" className="d-block w-100 h-40" style={{ filter: 'brightness(25%' }} alt="..." />
+              <img src="https://source.unsplash.com/random/900x360/?show" className="d-block w-100 h-40" style={{ filter: 'brightness(25%' }} alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://source.unsplash.com/random/900x350/?film" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
+              <img src="https://source.unsplash.com/random/900x360/?film" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://source.unsplash.com/random/900x350/?nature" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
+              <img src="https://source.unsplash.com/random/900x360/?nature" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://source.unsplash.com/random/900x350/?scenery" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
+              <img src="https://source.unsplash.com/random/900x360/?scenery" className="d-block w-100 h-40" style={{ filter: 'brightness(30%' }} alt="..." />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
