@@ -58,7 +58,7 @@ const Home = () => {
           </button>
         </div>
       </div>
-      <div className="" style={{background:"rgb(13,129,133)",background:"linear-gradient(90deg, rgba(13,129,133,1) 0%, rgba(22,228,174,1) 41%, rgba(18,150,155,1) 100%)"}}>
+      <div className="" style={{background:"linear-gradient(90deg, rgba(13,129,133,1) 0%, rgba(22,228,174,1) 41%, rgba(18,150,155,1) 100%)"}}>
       <div className="container" >
         <div className="m-4 text-center ">
           <h2 className="font-weight-bold text-decoration-underline">GITHUB USERS DETAILS</h2>
