@@ -85,9 +85,9 @@ const Home = () => {
                           <div className='container w-100'>
 
                             <a href={user.url}><button type="button" className="btn btn-primary m-2 " style={{ width: "5rem" }}>Detail</button></a>
-                            <a href={user.html_url}><button type="button" className="btn btn-primary m-2 " style={{ width: "5rem" }}>Link</button></a>
-                            <a href={user.followers_url}><button type="button" className="btn btn-primary m-1 d-inline " style={{ width: "5.8rem" }}>Followers</button></a>
-                            <a href={user.repos_url}><button type="button" className="btn btn-primary m-1 d-inline " style={{ width: "4.8rem" }}>Repos</button></a>
+                            <a href={user.html_url}><button type="button" className="btn btn-primary m-2 " style={{ width: "5rem" }}>Github</button></a>
+                            {/* <a href={user.followers_url}><button type="button" className="btn btn-primary m-1 d-inline " style={{ width: "6rem" }}>Followers</button></a>
+                            <a href={user.repos_url}><button type="button" className="btn btn-primary m-1 d-inline " style={{ width: "4.8rem" }}>Repos</button></a> */}
 
                           </div>
 
