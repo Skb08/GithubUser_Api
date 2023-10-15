@@ -15,7 +15,6 @@
 .container {
 	display: flex;
 	flex-direction: row;
-	margin: 0 100px;
 	justify-content: space-evenly;
 }
 
@@ -106,7 +105,6 @@ b {
 	.container {
 		display: flex;
 		flex-direction: column;
-		margin: 0 30px;
 	}
 	.right-footer {
 		padding: 12px 0px;
